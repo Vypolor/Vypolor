@@ -1,7 +1,4 @@
-# Hey! 👋
- 
-I'm Nikita — Backend developer
- 
+
 ## 📊 GitHub Stats
  
 <div align="center">
